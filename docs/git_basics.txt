@@ -1,3 +1,4 @@
 Git is a distributed version control system.
 It allows multiple developers to work together.
 
+More edit after merge.
